@@ -69,53 +69,53 @@ April 22-25, 2014, Room M5064
   | Tang Sihui          | Visiting fellow (South China U of Tech) |
   | Yang Huixiong       | Visiting fellow (Fujian Normal U)       |
 
- ## **Appendix**
+## Appendix
 
-  1. Readings
-     1.1. Basic
-     —1.1.1. C. Hanretty (2013). [Scraping the web for arts and humanities](http://www.essex.ac.uk/ldev/documents/going_digital/scraping_book.pdf), U of East Anglia.
-     —1.1.2. E.R. Tufte (2001/1983), [The visual display of quantitative information](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142), Graphics Press.
-     —1.1.3. I. Feinerer (2013). [Text mining in R](http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf).
-     —1.1.4. B. Grun (2011). [R package for topic models](http://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf).
-     1.2. Advanced
-     —1.2.1. C. Manning (2008). [Introduction to information retrieval](http://nlp.stanford.edu/IR-book/). Cambridge University Press.
-     —1.2.2. M. A. Russell (2013). [Mining the social web](http://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615). O’Reilly.
-     1.3. Examples
-     —1.3.1. Zhu, et al. (2011), [Social Science Computer Review](http://ssc.sagepub.com/content/29/3/327), 29, 327-339. (sampling)
-     —1.3.2. Peng, et al. (2013), [New Media & Society](http://nms.sagepub.com/content/15/5/644), 15, 644-664. (science literature)
-     —1.3.3. Wang, et al. (2013), [Cyberpsychology, Behavior and Social Networks](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409), 16, 679-685. (Twitter)
-     —1.3.4. Xu, et al. (2013), [IEEE Transactions on Visualization and Computer Graphics](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6634134), 19, 2012-2021. (visualization)
-     —1.3.5. Liang. (2014), [Social Science Computer Review](http://ssc.sagepub.com/content/early/2013/10/09/0894439313506844). (online forums)
-  2. Tools
-     2.1. Data Collection
-     —2.1.1. [NodeXL: Network overview, discovery and exploration for Excel](http://nodexl.codeplex.com/)
-     —2.1.2. [Visual Web Ripper: Extract data from the Web](http://www.visualwebripper.com/)
-     —2.1.3. [Python API and JSON](http://www.pythonforbeginners.com/api/python-api-and-json)
-     —2.1.4. [Web scraping with Beautiful soup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
-     2.2. Data PreProcessing
-     —2.2.1. [SPSS](http://www.ibm.com/software/hk/analytics/spss/)
-     —2.2.2. [Python NLTK](http://www.nltk.org/)
-     —2.2.3. [R tm](http://cran.r-project.org/web/packages/tm/index.html)
-     —2.2.4. [R e1071](http://cran.r-project.org/web/packages/e1071/index.html)
-     —2.2.5. [R topicmodels](http://cran.r-project.org/web/packages/topicmodels/index.html)
-     2.3. Data Analysis
-     —2.3.1. [R](http://cran.r-project.org/) & [Rstudio](https://www.rstudio.com/ide/)
-     —2.3.2. Network analysis with [igraph](http://cran.r-project.org/web/packages/igraph/index.html) package in R
-     —2.3.3. Survival analysis with [survival](http://cran.r-project.org/web/packages/survival/index.html) package in R
-     —2.3.4. Sentiment analysis with [sentiment](https://sites.google.com/site/miningtwitter/questions/sentiment/sentiment) package in R
-     —2.3.5. Naive Bayes analysis with [e1071](http://cran.r-project.org/web/packages/e1071/index.html) package in R
-     —2.3.6. Text mining with [RTextTools](http://cran.r-project.org/web/packages/RTextTools/index.html) in R
-     —2.3.7. Decision trees with [Rpart](http://cran.r-project.org/web/packages/rpart/index.html) and [rattle](http://rattle.togaware.com/) in R
-     2.4. Data Visualization
-     —2.4.1. [Wordle](http://www.wordle.net/)
-     —2.4.2. [HTML5 word cloud](http://timc.idv.tw/wordcloud/)
-     —2.4.3. [Voyant Tools](http://voyant-tools.org/)
-     —2.4.4. [NodeXL](http://nodexl.codeplex.com/)
-     —2.4.5. [Google Fusion Tables](http://www.google.com/drive/apps.html#fusiontables)
-     —2.4.6. [Google Charts](https://code.google.com/apis/ajax/playground/?type=visualization)
-  3. Online Videos
-     3.1. Visualizaion
-     —3.1.1. [Wordle](http://youtu.be/xhL5D9nz5aI)
-     —3.1.2. [Voyant Tools](http://www.youtube.com/watch?v=Gar_2FUPSZs&feature=share&list=PLDCADF35691404F54)
-     —3.1.3. [NodeXL](http://youtu.be/t8YHRVf60BU)
-     —3.1.4. [Excel and mapping points with Google Fusion Tables](http://youtu.be/HzwVEph-l8o)
+### 1. Readings
+1.1. Basic
+— 1.1.1. C. Hanretty (2013). [Scraping the web for arts and humanities](http://www.essex.ac.uk/ldev/documents/going_digital/scraping_book.pdf), U of East Anglia.
+— 1.1.2. E.R. Tufte (2001/1983), [The visual display of quantitative information](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142), Graphics Press.
+— 1.1.3. I. Feinerer (2013). [Text mining in R](http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf).
+— 1.1.4. B. Grun (2011). [R package for topic models](http://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf).
+1.2. Advanced
+— 1.2.1. C. Manning (2008). [Introduction to information retrieval](http://nlp.stanford.edu/IR-book/). Cambridge University Press.
+— 1.2.2. M. A. Russell (2013). [Mining the social web](http://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615). O’Reilly.
+1.3. Examples
+— 1.3.1. Zhu, et al. (2011), [Social Science Computer Review](http://ssc.sagepub.com/content/29/3/327), 29, 327-339. (sampling)
+— 1.3.2. Peng, et al. (2013), [New Media & Society](http://nms.sagepub.com/content/15/5/644), 15, 644-664. (science literature)
+— 1.3.3. Wang, et al. (2013), [Cyberpsychology, Behavior and Social Networks](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409), 16, 679-685. (Twitter)
+— 1.3.4. Xu, et al. (2013), [IEEE Transactions on Visualization and Computer Graphics](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6634134), 19, 2012-2021. (visualization)
+— 1.3.5. Liang. (2014), [Social Science Computer Review](http://ssc.sagepub.com/content/early/2013/10/09/0894439313506844). (online forums)
+### 2. Tools
+2.1. Data Collection
+— 2.1.1. [NodeXL: Network overview, discovery and exploration for Excel](http://nodexl.codeplex.com/)
+— 2.1.2. [Visual Web Ripper: Extract data from the Web](http://www.visualwebripper.com/)
+— 2.1.3. [Python API and JSON](http://www.pythonforbeginners.com/api/python-api-and-json)
+— 2.1.4. [Web scraping with Beautiful soup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
+2.2. Data PreProcessing
+— 2.2.1. [SPSS](http://www.ibm.com/software/hk/analytics/spss/)
+— 2.2.2. [Python NLTK](http://www.nltk.org/)
+— 2.2.3. [R tm](http://cran.r-project.org/web/packages/tm/index.html)
+— 2.2.4. [R e1071](http://cran.r-project.org/web/packages/e1071/index.html)
+— 2.2.5. [R topicmodels](http://cran.r-project.org/web/packages/topicmodels/index.html)
+2.3. Data Analysis
+— 2.3.1. [R](http://cran.r-project.org/) & [Rstudio](https://www.rstudio.com/ide/)
+— 2.3.2. Network analysis with [igraph](http://cran.r-project.org/web/packages/igraph/index.html) package in R
+— 2.3.3. Survival analysis with [survival](http://cran.r-project.org/web/packages/survival/index.html) package in R
+— 2.3.4. Sentiment analysis with [sentiment](https://sites.google.com/site/miningtwitter/questions/sentiment/sentiment) package in R
+— 2.3.5. Naive Bayes analysis with [e1071](http://cran.r-project.org/web/packages/e1071/index.html) package in R
+— 2.3.6. Text mining with [RTextTools](http://cran.r-project.org/web/packages/RTextTools/index.html) in R
+— 2.3.7. Decision trees with [Rpart](http://cran.r-project.org/web/packages/rpart/index.html) and [rattle](http://rattle.togaware.com/) in R
+2.4. Data Visualization
+— 2.4.1. [Wordle](http://www.wordle.net/)
+— 2.4.2. [HTML5 word cloud](http://timc.idv.tw/wordcloud/)
+— 2.4.3. [Voyant Tools](http://voyant-tools.org/)
+— 2.4.4. [NodeXL](http://nodexl.codeplex.com/)
+— 2.4.5. [Google Fusion Tables](http://www.google.com/drive/apps.html#fusiontables)
+— 2.4.6. [Google Charts](https://code.google.com/apis/ajax/playground/?type=visualization)
+### 3. Online Videos
+3.1. Visualizaion
+— 3.1.1. [Wordle](http://youtu.be/xhL5D9nz5aI)
+— 3.1.2. [Voyant Tools](http://www.youtube.com/watch?v=Gar_2FUPSZs&feature=share&list=PLDCADF35691404F54)
+— 3.1.3. [NodeXL](http://youtu.be/t8YHRVf60BU)
+— 3.1.4. [Excel and mapping points with Google Fusion Tables](http://youtu.be/HzwVEph-l8o)
