@@ -65,13 +65,18 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 ## Latest News
 
-{% for post in paginator.posts %}
+{% for post in site.posts limit:10 %}
 
 {% include archive-single.html %}
 
 {% endfor %}
 
-{% include paginator.html %}
+{% for post in site.posts limit:10 %}
+<article>
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+</article>
+{% endfor %}
 
 ## Contact US
 
