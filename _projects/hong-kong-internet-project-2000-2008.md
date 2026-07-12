@@ -8,17 +8,7 @@ header:
   overlay_image: /assets/images/unsplash-image-18.jpg
   teaser: /assets/images/author/chengjun.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-author: "王成军"
+  
 ---
 
 ## Hong Kong Internet Project (2000-2008)
