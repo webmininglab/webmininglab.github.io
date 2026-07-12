@@ -67,7 +67,7 @@ analytics:
 # Site Author
 author:
   name             : "Web Mining Lab"
-  avatar           : "/assets/logo.jpg"
+  avatar           : "/assets/images/lablogo.jpg"
   bio              : "Web Mining Lab"
   location         : "Hong Kong"
   email            : wangchj04@gmail.com
