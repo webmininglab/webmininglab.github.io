@@ -5,10 +5,10 @@ permalink: /workshops/
 author_profile: true
 ---
 
-{% for project in site.projects %}
+{% for workshop in site.workshops %}
 
-### [{{ project.title }}]({{ project.url | relative_url }})
+### [{{ workshop.title }}]({{ workshop.url | relative_url }})
 
-{{ project.excerpt }}
+{{ workshop.excerpt }}
 
 {% endfor %}
