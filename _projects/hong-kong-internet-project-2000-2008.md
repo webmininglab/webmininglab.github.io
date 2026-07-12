@@ -1,5 +1,6 @@
 ---
 title: "Hong Kong Internet Project (2000-2008)"
+layout: single
 excerpt: "This is a longitudinal study of the diffusion, use, and impact of the Internet in Hong Kong."
 header:
   overlay_color: "#000"
@@ -7,13 +8,6 @@ header:
   overlay_image: /assets/images/unsplash-image-18.jpg
   teaser: /assets/images/author/chengjun.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-sidebar:
-  - title: "role"
-    image: "/assets/images/author/chengjun.jpg"
-    image_alt: "logo"
-    text: "网站管理员"
-  - title: "Responsibilities"
-    text: "网站维护"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
