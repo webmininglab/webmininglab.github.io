@@ -12,20 +12,20 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "计算传播学实验中心"
+title                    : "Web Mining Lab"
 title_separator          : "-"
-name                     : "计算传播学实验中心"
+name                     : "Web Mining Lab"
 description              : "An amazing website."
-url                      : "https://socrateslab.github.io"
-baseurl                  : "/zh"   # the subpath of your site, e.g. "/blog"
-repository               : "socrateslab/zh" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://webmininglab.github.io"
+baseurl                  : ""   # the subpath of your site, e.g. "/blog"
+repository               : "webmininglab/webmininglab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default)，"disqus"   , "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "computational-communication" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "webmininglab" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -66,19 +66,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "计算传播学实验中心"
+  name             : "Web Mining Lab"
   avatar           : "/assets/logo.jpg"
-  bio              : "Computational Communication"
-  location         : "Nanjing"
-  email            : computational.communication@gmail.com
-  uri              : "https://computational-communication.com"
+  bio              : "Web Mining Lab"
+  location         : "Hong Kong"
+  email            : wangchj04@gmail.com
+  uri              : "https://webmininglab.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "data-science-lab"
+  github           : "webmininglab"
   github           :
   gitlab           :
   google_plus      :
@@ -93,7 +93,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : "http://weibo.com/p/10080843f915e125a13c116fe1854bc43ccf0a/home"
+  weibo            : ""
   xing             :
   youtube          :
 
