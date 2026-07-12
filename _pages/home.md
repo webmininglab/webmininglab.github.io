@@ -56,6 +56,13 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
             Associate Professor
         </div>
     </td>
+    <td style="text-align: center; vertical-align: middle; padding:10px">
+        <div>
+            <img src="" width = 100px height = 100px><br>
+            <a href="https://wzzjas.github.io/">Zhen-Zhen Wang</a><br>
+            Assistant Professor
+        </div>
+    </td>
   </tr>
   
 
