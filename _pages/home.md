@@ -16,7 +16,7 @@ author_profile: true
 {% include toc title="Table" icon="file-text" %}
 
 
-[寻找人类传播行为的计算基因🧬]({{ "/" | absolute_url }}){: .btn .btn--success .btn--large}
+[Mine the web, mine the mind 🧬]({{ "/" | absolute_url }}){: .btn .btn--success .btn--large}
 
 ## Welcome to the Web Mining Lab!
 
@@ -25,7 +25,7 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 
 
-## 成员
+## Members
 
 <table style="table-layout: auto; width: 450px">
   <tr>
@@ -60,7 +60,7 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
   
 </table>
 
-## 联系
+## Contact US
 
 Dept. of Media & Communication
 City University of Hong Kong
