@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Welcome to the Web Mining Lab!"
 paginate: true
 permalink: /
