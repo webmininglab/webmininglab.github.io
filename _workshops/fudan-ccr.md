@@ -4,6 +4,8 @@
 Fudan Intensive Summer Training Workshop
 Computational Communication Research (CCR), July 2014
 
+<img width="600"  alt="Fudan-CCR" src="https://github.com/user-attachments/assets/3533b127-507d-4a44-a353-70c43450a6a8" />
+
 
 | Topic                              | Speaker      | Readings                                                     | Materials                                                    |
 | ---------------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
