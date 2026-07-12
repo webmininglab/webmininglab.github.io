@@ -44,7 +44,7 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
         <div>
             <img src="https://chengjun.github.io/authors/admin/avatar_hucdc0c36df1d51621c381efb87a23e0c7_43703_270x270_fill_q75_lanczos_center.jpg" width = 100px height = 100px><br>
             <a href="http://chengjun.github.io/">王成军</a><br>
-            教授
+            Professor
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; padding:10px">
@@ -62,9 +62,10 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 ## 联系
 
-![image](https://github.com/user-attachments/assets/7f8fe705-9f29-427d-841b-e339c43b60ff)
+Dept. of Media & Communication
+City University of Hong Kong
+18 Tat Chee Avenue, Kowloon, Hong Kong S. A. R.
 
-- 邮箱：computational.communication@gmail.com
-- 地址：中国江苏省南京市栖霞区仙林大道163号，南京大学（仙林校区）新闻传播学院307 (邮编210023).
+Email: weblabcityu [at] gmail.com
 
-[🔥 Kindling the fire in your heart!](https://github.com/socrateslab/forum/edit/master/_pages/home.md)
+[🔥 Kindling the fire in your heart!](https://github.com/webmininglab/webmininglab.github.io/edit/master/_pages/home.md)
