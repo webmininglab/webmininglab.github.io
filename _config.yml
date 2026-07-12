@@ -236,15 +236,14 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  projects:
     output: true
     permalink: /:collection/:path/
-  readings:
+    
+  workshops:
     output: true
     permalink: /:collection/:path/
-  jekylls:
-    output: true
-    permalink: /:collection/:path/
+  
   portfolio:
     output: true
     permalink: /:collection/:path/
