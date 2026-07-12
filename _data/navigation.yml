@@ -8,7 +8,7 @@ main:
      url: /workshops/ 
    - title: "Publications"
      url: /publications/   
-    - title: "News"
+   - title: "News"
      url: /year-archive/
    - title: "Visualizations"
      url: /visualizations/ 
