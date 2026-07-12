@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Welcome to the Web Mining Lab!"
+paginate: true
 permalink: /
 header:
   overlay_color: "#000"
@@ -63,14 +64,11 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 ## News
 
-<ul>
-{% for post in site.posts limit:10 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-  </li>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
+
+{% include paginator.html %}
 
 ## Contact US
 
