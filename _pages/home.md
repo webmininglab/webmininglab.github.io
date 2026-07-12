@@ -86,9 +86,9 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 ## Contact US
 
-Dept. of Media & Communication
-City University of Hong Kong
-18 Tat Chee Avenue, Kowloon, Hong Kong S. A. R.
+- Dept. of Media & Communication
+- City University of Hong Kong
+- 18 Tat Chee Avenue, Kowloon, Hong Kong S. A. R.
 
 Email: weblabcityu [at] gmail.com
 
