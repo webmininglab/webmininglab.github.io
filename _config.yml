@@ -238,15 +238,15 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
     
   workshops:
     output: true
-    permalink: /:collection/:path/
+    permalink: /workshops/:path/
   
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
 
 # Defaults
 defaults:
