@@ -2,10 +2,16 @@
 main:
    - title: "Home"
      url: /
-   - title: "News"
-     url: /year-archive/
+   - title: "Projects"
+     url: /projects/ 
+   - title: "Workshops"
+     url: /workshops/ 
    - title: "Publications"
      url: /publications/   
+    - title: "News"
+     url: /year-archive/
+   - title: "Visualizations"
+     url: /visualizations/ 
    - title: "Admin"
      url: https://github.com/webmininglab/webmininglab.github.io/
 
