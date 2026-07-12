@@ -61,6 +61,17 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
   
 </table>
 
+## News
+
+<ul>
+{% for post in site.posts limit:10 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+  </li>
+{% endfor %}
+</ul>
+
 ## Contact US
 
 Dept. of Media & Communication
