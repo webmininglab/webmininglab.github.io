@@ -1,7 +1,7 @@
 ---
 title: "Link Structure of the Web in Hong Kong and Mainland China"
 layout: single
-excerpt: "The shape of the Web in terms of its graphical structure has been a widely interested topic. Two graphs, Bow Tie and Daisy, have stood out from previous research. In this work, we take a different approach, by viewing the Web as a hierarchy of three levels, namely page level, host level, and domain level. Such structures are analyzed and compared with a snapshot of Chinese Web in early 2006, involving 830 million pages, 17 million hosts, and 0.8 million domains. Some interesting results have emerged. For example, the Chinese Web appears more like a teapot (with a large size of SCC, a medium size of IN and a small size of OUT) at page level than the classic bow tie or daisy shape. Some challenging phenomena are also observed. For example, the INs becomes much smaller than OUTs at host and domain levels."
+excerpt: "The shape of the Web in terms of its graphical structure has been a widely interested topic. "
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
