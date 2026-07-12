@@ -64,8 +64,12 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
 
 ## News
 
+## Latest News
+
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+
+{% include archive-single.html %}
+
 {% endfor %}
 
 {% include paginator.html %}
