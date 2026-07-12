@@ -1,6 +1,6 @@
 ---
 title: "王成军"
-excerpt: "南京大学新闻传播学院助理研究员"
+excerpt: "南京大学新闻传播学院教授"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
