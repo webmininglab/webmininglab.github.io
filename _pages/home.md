@@ -24,6 +24,7 @@ We’re a social science research lab of a modest size, housed inside the Depart
 We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in Hong Kong and mainland China and have since 2005 evolved into social media (Web 2.0) involving interdisciplinary collaboration. We welcome new collaboration in data sharing, joint projects, exchange visits, and etc.
 
 
+![gif](https://webmininglab.github.io/assets/gif.gif)
 
 ## Members
 
