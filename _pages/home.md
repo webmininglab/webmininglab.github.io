@@ -12,6 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "We’re a social science research lab of a modest size, housed inside the Department of Media and Communication, City University of Hong Kong. We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in Hong Kong and mainland China and have since 2005 evolved into social media (Web 2.0) involving interdisciplinary collaboration. We welcome new collaboration in data sharing, joint projects, exchange visits, and etc."
 author_profile: true
+
 ---
 
 {% include toc title="Table" icon="file-text" %}
