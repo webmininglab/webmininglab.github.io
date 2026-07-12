@@ -1,25 +1,8 @@
 # Authors
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
-
-梁夏:
-  name        : "梁夏"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
 
 吴令飞:
   name        : "吴令飞"
-  uri         : "http://www.jianshu.com/users/2e2954a2be81/latest_articles"
+  uri         : "https://lingfeiwu.github.io/"
   email       : ""
   bio         : "I ordered what?"
   avatar      : "/assets/images/author/lingfei.jpg"
@@ -28,91 +11,10 @@ Billy Rick:
 
 王成军:
   name        : "王成军"
-  uri         : "https://chengjunwang.com/"
+  uri         : "https://chengjun.github.io/"
   email       : ""
   bio         : "Follow your logic！"
   avatar      : "/assets/images/author/chengjun.jpg"
   twitter     : "ChengJunWang"
   google_plus : ""
 
-张昕之:
-  name        : "张昕之"
-  email       : ""
-  bio         : "开往红磡"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-闫小勇:
-  name        : "闫小勇"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-许小可:
-  name        : "许小可"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-胡海波:
-  name        : "胡海波"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-罗晨:
-  name        : "罗晨"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-谈和:
-  name        : "谈和"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : ""
-  google_plus : ""
-
-陈志聪:
-  name        : "陈志聪"
-  email       : ""
-  uri         : "http://zhicongchen.github.io/"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/author/zhicong.jpg"
-  twitter     : ""
-  google_plus : ""
-
-秦强:
-  name        : "秦强"
-  email       : ""
-  uri         : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/author/qinqiang.jpg"
-  twitter     : ""
-  google_plus : ""
-
-刘磊:
-  name        : "刘磊"
-  email       : ""
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/author/liulei.jpg"
-  twitter     : ""
-  google_plus : ""
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
