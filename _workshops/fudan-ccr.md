@@ -1,4 +1,15 @@
-
+---
+title: "’14 Fudan FIST CCR"
+layout: single
+excerpt: "Fudan Intensive Summer Training Workshop"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-18.jpg
+  teaser: /assets/images/author/chengjun.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  
+---
 
 ## ’14 Fudan FIST CCR
 Fudan Intensive Summer Training Workshop
