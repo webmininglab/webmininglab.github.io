@@ -1,46 +1,20 @@
 ---
-layout: single
-title: "计算传播网迁移至豆瓣小组"
-header:
-  teaser: "/assets/images/unsplash-gallery-image-2-th.jpg"
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-2.jpg
-  cta_label: "Read More"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "为了方便维护和更新，计算传播网正式迁移至豆瓣小组。链接为：https://www.douban.com/group/webmining/"
-modified: 2021-05-25T11:55:22-04:00
-comments: true
-author_profile: true
-author: "王成军"
-manuscript: false
+id: 3287
+title: "Lingfei Wu wins NSF CAREER Award"
+date: 2023-03-01 10:14:34
+guid: http://weblab.com.cityu.edu.hk/blog/?p=3287
 ---
 
-{% include toc title="Table" icon="file-text" %}
+# Lingfei Wu wins NSF CAREER Award
 
+Congratulations to our lab alumni Dr. [Lingfei Wu](<https://lingfeiwu.github.io/>) on winning a prestigious National Science Foundation CAREER Award in the United States! Lingfei is currently an assistant professor of information science at the University of Pittsburgh.
 
-为了方便维护和更新，计算传播网正式迁移至豆瓣小组。
+![](http://weblab.com.cityu.edu.hk/blog/wp-content/uploads/2019/05/sit-465x662.jpg)
 
-[https://www.douban.com/group/webmining/](https://www.douban.com/group/webmining/)
+The highly competitive grant, awarded to nearly 500 faculty each year across all disciplines, support early-career faculty who demonstrate the potential to serve as academic role models and leaders in research and education nationwide.
 
-大家好，我是苏格拉底大王，现在蓝鲸大学工作。欢迎关注计算传播学豆瓣小组！
+This five-year award will support Wu’s investigation of team collaboration mechanisms underlying the production of millions of scholarly and educational documents over the past century. The study will examine how individual scientists can learn, progress, and effectively innovate in teams (see more at <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239418>).
 
-这个小组是我建立的苏格拉底学园的一部分。苏格拉底学园除了包括这个计算传播学小组之外，还包括第谷读书会、苏格拉底实验室。希望通过这种方式，可以让人们更好地认识自己、点燃内心的火焰🔥。
+“Science is getting harder and more complicated. And a common belief is that teams are the solutions—the hope is that by putting together a blacksmith, a mason, and a carpenter, we will get a Leonardo da Vinci. But is this true? If teaming more specialists is all it takes to make bigger innovations, why have we seen larger research teams but fewer breakthrough ideas?”
 
-本组讨论和转载关于计算社会科学、计算传播学、社会科学的最新研究、经典著作、 计算方法、八卦。
-
-- 分享最新研究
-- 总结经典研究
-- 追踪“新”方法
-- 汇总“新”数据
-- 寻找志同道合者
-- 分享一些八卦、消息、和新闻
-
-
-欢迎关注 #计算传播学 豆瓣话题https://www.douban.com/gallery/topic/300103/?sort=new
-
-计算传播学豆列 https://www.douban.com/doulist/36499472/
-
-欢迎对计算社会科学感兴趣的朋友一起参加。
-
-加入本组请填写问卷!! https://wj.qq.com/s2/8418932/fa15/
+Wu suggested that it is time to admit that we still know little of how teams work in science and reflect upon “team science,” the zeitgeist of our time that view collaboration as an inevitable trend, the expectation that scientists in teams will achieve breakthroughs otherwise difficult to attain through individual or additive efforts. Lingfei will leverage big data, complexity sciences, and artificial intelligence to develop multiple research directions under the umbrella of _the Science of Team Science and Innovation_. Building upon his previous findings published in [Nature](<https://www.nature.com/articles/s41586-019-0941-9>), [PNAS](<https://www.pnas.org/doi/abs/10.1073/pnas.2200927119>), and other prestigious journals, he proposes to quantify the evolution of core scientific knowledge as the displacement between highly cited research articles on the same topic; examine the psychological, communication, and financial conditions of individuals scientists in teams that successfully innovated the core knowledge; and finally, investigate the career outcomes of team members who contributed to core knowledge innovation, with a special focus on early-career women and minority scientists.
