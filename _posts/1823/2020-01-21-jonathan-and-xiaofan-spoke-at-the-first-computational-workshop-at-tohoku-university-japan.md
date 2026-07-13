@@ -1,0 +1,10 @@
+---
+id: 3025
+title: "Jonathan and Xiaofan Spoke at the First Computational Workshop at Tohoku University, Japan"
+date: 2020-01-21 13:06:06
+guid: http://weblab.com.cityu.edu.hk/blog/?p=3025
+---
+
+# Jonathan and Xiaofan Spoke at the First Computational Workshop at Tohoku University, Japan
+
+Lab members Jonathan Zhu and Xiaofan Liu, along with Dr. Tetsuro Kobayashi of Department of Media & Communication, were invited to give talks at the First International Workshop on Computational Humanities and Social Science at Tohoku University, Sendai, Japan on 19 January 2020. Tohoku University, one of the seven leading national universities in Japan, has recently established a Division on Computational Humanities and Social Science, the first of its kind in the country, to gear up its cutting-edge research and doctoral student training in the emerging area. Nine speakers, including academic scholars and industry researchers from Japan, Hong Kong, and the Netherlands, presented their latest research on computational social science. Jonathan introduced some of new methods his group was developing for measuring mobile use sessions and analyzing mobile application sequences. Dr. Kobayashi reported the methods and findings from his collaboration project that used deep learning algorithms to detect politician’s faces from television news. Xiaofan presented the results from his recent scientometric study of communication journal publications. The speeches attracted interests from the audience as they demonstrated the wide range of topics and the advanced level of computational methods in the faculty research at CityU. After the conference, the CityU visitors held a meeting with Dr. Hiroki Takikawa, Director of Division of Computational Humanities and Social Science at Tohoku University, to discuss further collaborations in research projects, student exchanges, and other areas. ![](https://webmininglab.github.io/assets/uploads/2020/01/1.jpg) From the left: Dr. Xiaofan Liu, Prof. Jonathan Zhu, Dr. Hiroki Takikawa, and Dr. Tetsuro Kobayashi.

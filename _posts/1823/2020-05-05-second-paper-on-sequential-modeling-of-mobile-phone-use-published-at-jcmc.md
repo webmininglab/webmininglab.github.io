@@ -1,0 +1,10 @@
+---
+id: 3044
+title: "Second Paper on Sequential Modeling of Mobile Phone Use Published at JCMC"
+date: 2020-05-05 10:53:08
+guid: http://weblab.com.cityu.edu.hk/blog/?p=3044
+---
+
+# Second Paper on Sequential Modeling of Mobile Phone Use Published at JCMC
+
+The article, entitled “[Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions](<https://doi.org/10.1093/jcmc/zmz029>)” has recently been published at _Journal of Computer-Mediated Communication_. Mobile phone use is, by its very nature, an unfolding process. For example, we might start the day by texting, followed by online games and then reviewing the news. This raises the question of how communication scholars can explicate, quantify, and analyze mobile phone use as sequential processes. With a large-scale dataset of mobile app use, the study conducted by Dr. Winson Peng and Dr. Jonathan Zhu examines mobile phone use as two sequential processes: mobile sessions composed of an uninterrupted set of behaviors, and mobile trajectories composed of mobile sessions and mobile-off time. The study offers fresh and rich insights into the intricate and multiplex behavioral patterns initiated and developed by ordinary users. This study enables the empirical examination of how mobile phone use is embedded in the daily lives of users, which improves our empirical knowledge about mobile temporality substantially. The study demonstrates the potentials of the sequential perspective as a sharpened temporal lens in observing media use and human communication processes. In 2018, Dr. Zhu and other lab members have proposed a variable-length measure called “session” to uncover unmeasured temporal characteristics of mobile phone use, which was published at [Mobile Media and Communication](<https://doi.org/10.1177/2050157917748351>).
