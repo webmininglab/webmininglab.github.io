@@ -1,0 +1,10 @@
+---
+id: 681
+title: "Heng and Chengjun presented their studies at 64th annual conference of WAPOR"
+date: 2011-09-24 15:46:00
+guid: http://weblab.com.cityu.edu.hk/blog/?p=681
+---
+
+# Heng and Chengjun presented their studies at 64th annual conference of WAPOR
+
+Heng Lu and Chengjun Wang presented their studies at the WAPOR 2011 conference on 21-23 September. Heng presented his study (coauthored with Winson Peng and Jonathan Zhu) titled “The Effect of the Internet on National Identity: A cohort Study in Hong Kong” at the PhD workshop held on 21 September. [![](https://webmininglab.github.io/assets/uploads/2011/09/P9211099.jpg)](<https://webmininglab.github.io/assets/uploads/2011/09/P9211099.jpg>) Employing dataset of [Hong Kong Internet Project (HKIP)](<http://newmedia.cityu.edu.hk/hkip/>) from 2000 to 2008, Heng illustrated the effect of Internet adoption on national identity and how this effect is moderated by cohorts in the context of Hong Kong. Chengjun presented his study titled “The Emergence of Spiral of Silence from the Individual Behavior: Agent-based Modeling of Spiral of Silence” under the session of “New Ideas on Political Effects” on 23 September.[![](https://webmininglab.github.io/assets/uploads/2011/09/P92313192.jpg)](<http://weblab.com.cityu.edu.hk/blog/blog/2011/09/24/heng-and-chengjun-presented-their-studies-at-64th-annual-conference-of-wapor/olympus-digital-camera-4/>) By proposing an agent-based model of spiral of silence, Chengjun’s study shows that the stable existence of spiral of silence is contingent upon the relative strength of mass media over reference groups. The conference is hosted by the Graduate School of Communication and the Amsterdam School of Communication Research (ASCoR) at the University of Amsterdam, which is located at Amsterdam, the Netherland. The theme of this year’s conference is “Public opinion and the Internet”.

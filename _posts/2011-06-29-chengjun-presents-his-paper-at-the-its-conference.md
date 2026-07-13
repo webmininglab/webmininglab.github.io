@@ -1,0 +1,10 @@
+---
+id: 570
+title: "Chengjun Wang Presented His Paper at the ITS Conference"
+date: 2011-06-29 00:14:42
+guid: http://weblab.com.cityu.edu.hk/blog/?p=570
+---
+
+# Chengjun Wang Presented His Paper at the ITS Conference
+
+Chengjun Wang, the year one PhD student of the lab, presented his paper on the International Telecommunications Society (ITS) Asia-Pacific Regional Conference, held in Taiwan during June 26th-29th, 2011. [](<http://weblab.com.cityu.edu.hk/blog/?attachment_id=571>)[![](https://webmininglab.github.io/assets/uploads/2011/06/DSCN0133.jpg)](<http://weblab.com.cityu.edu.hk/blog/blog/2011/06/29/chengjun-presents-his-paper-at-the-its-conference/dscn0133/>) Chengjun's paper titled _Surfing mobile Internet Motivated by Fashion Attentiveness_ focused on testing and verifying the interplay among fashion attentiveness, demographic variables, and new mobile Internet services. He argued that people’s fashion attentiveness would moderate other demographical variables’ influence on mobile Internet use, and new mobile Internet service would mediate fashion attentiveness’s influence on mobile Internet use.His presentation slides are available [here](<https://webmininglab.github.io/assets/uploads/2011/06/surfing-mobile-Internet-motivated-by-fashion-attentiveness.pdf>). The International Telecommunications Society (ITS) is an association of professionals in the information, communications, and technology sectors. ITS is an independent, non-aligned and not-for-profit organization with a worldwide network of about 400 members. [![](https://webmininglab.github.io/assets/uploads/2011/06/DSCN0137.jpg)](<http://weblab.com.cityu.edu.hk/blog/?attachment_id=571>)The theme of the 2011 conference is "Convergence in the Digital Age," and it focuses on key issues of the day such as the infrastructure of converged markets, digital content and social networking services, network neutrality, as well as the strategies and management of the converged services, etc.

@@ -1,0 +1,10 @@
+---
+id: 624
+title: "Zhu et al.&rsquo;s paper on social media sampling formally published"
+date: 2011-07-26 16:26:58
+guid: http://weblab.com.cityu.edu.hk/blog/blog/2011/07/26/zhu-et-al-s-paper-on-social-media-sampling-formally-published-3/
+---
+
+# Zhu et al.&rsquo;s paper on social media sampling formally published
+
+Zhu, J. J. H., Mo, Q., Wang, F., & Lu, H. (2011). A Random Digit Search (RDS) Method for Sampling of Blogs and Other User-Generated Content. Social Science Computer Review, 29 (3), 327-339. [[Abstract](<http://ssc.sagepub.com/content/29/3/327.abstract>)] The paper was a methodological by-product from their project on the sustainability of social media in general and blogging in specific. To obtain an objective and accurate assessment of how likely bloggers keep blogging, a random sample representative of the study population is required. Given the lack of rigorous and practical random sampling methods for online content, they devised and tested in the paper the RDS method based on the principles of random digital dialing (RDD) used in telephone surveys. [![2011-07-26 SSCR Table 2](https://webmininglab.github.io/assets/uploads/2011/07/2011-07-26-SSCR-Table-2_thumb1.png)](<https://webmininglab.github.io/assets/uploads/2011/07/2011-07-26-SSCR-Table-21.png>) This is the second paper on web sampling by Web Mining Lab. Previously, Zhu and his collaborators at the Net Lab of Peking University published a study on random sampling of general web pages: Li, Y., Li, X. M., & Zhu, J. J. H. (2010). PPS sampling of Web graph using preferential jumping strategy. Web Society (SWS), 2010 IEEE 2nd Symposium on. [[Abstract](<http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5607464>)] Members of Web Mining Lab are currently working on sampling strategies for social networks, with some of the preliminary findings presented at Sunbelt 2011 (the annual conference of the International Network for Social Network Analysis). [[Conference program](<http://www.insna.org/PDF/Sunbelt/31_ProgramPDF.pdf>)]
