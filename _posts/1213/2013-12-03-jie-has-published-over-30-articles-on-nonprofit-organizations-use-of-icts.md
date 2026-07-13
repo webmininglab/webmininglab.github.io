@@ -1,0 +1,10 @@
+---
+id: 1512
+title: "Jie has published over 30 articles on nonprofit organizations’ use of ICTs"
+date: 2013-12-03 12:08:18
+guid: http://weblab.com.cityu.edu.hk/blog/?p=1512
+---
+
+# Jie has published over 30 articles on nonprofit organizations’ use of ICTs
+
+On December 2nd, Qin Jie, the 4th year PhD student of the lab, published her 31st article on nonprofit organizations’ use of ICTs in [_The Daily Sunshine_](<http://jb.sznews.com/>), a Shenzhen-based newspaper with a daily circulation of 0.45 million copies. Jie has been invited to contribute to the [_Public Welfare Weekly_](<http://www.jingme.net/node_87100.htm>) of _The Daily Sunshine_ since March 2012. Her articles cover various topics on nonprofit organizations’ use of ICTs. Now it’s gaining influence. “I cannot express how proud I was when I saw my initiative of [donating the 404 pages for missing children](<http://jb.sznews.com/html/2012-11/26/content_2291148.htm>) became reality in China. “ Jie said excitedly. Before joining the PhD program of the department, Jie has work experience in three international nonprofit organizations and two major IT companies. Her dissertation deals with the nature of the hyperlinking behavior of environmental nonprofit organizations. “When I told people about my dissertation, two questions always follow: Why nonprofit organizations and why hyperlinks?” said Jie, “I think it roots in my belief in the value of social networks and media empowerment. I want to be one of the people who are changing the world.” Li Min, editor of The Daily Sunshine, said, “Jie is a good writer and a keen observer of the nonprofit sector in China.” Click [here](<http://weblab.com.cityu.edu.hk/blog/qinjie/column/>) to see a full list of the articles. Find more about Jie on her blog “[New media & Nonprofits](<http://weblab.com.cityu.edu.hk/blog/qinjie/>)”. (QJ)

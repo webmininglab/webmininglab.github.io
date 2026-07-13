@@ -1,0 +1,10 @@
+---
+id: 1203
+title: "Paper on Public Discussions of Occupy Wall Street Accepted by CBS"
+date: 2013-01-05 15:35:39
+guid: http://weblab.com.cityu.edu.hk/blog/?p=1203
+---
+
+# Paper on Public Discussions of Occupy Wall Street Accepted by CBS
+
+The paper  _Discussing Occupy Wall Street on Twitter: Longitudinal Network Analysis of Equality, Emotion, and Stability of Public Discussion_ coauthored by Cheng-Jun Wang, Pian-pian Wang and Jonathan Zhu has been accepted by  _Cyberpsych_ _ology, Behavior, and Social Networking_ which __ is ranked**4 out of 72** in the Communication category of the Journal Citation Report 2011 (Social Sciences Edition, sorted by 5-Year Impact Factor) . ![](https://webmininglab.github.io/assets/uploads/2013/01/showCoverImage.jpg)The paper will be published in the special issue on social media as a research environment, edited by Guest editors Michael W. Macy and Scott A. Golder. As a platform for online discussion, Twitter provides an opportunity for both collecting data and matching different theoretical statements about an ideal public sphere with unobtrusive observations. The paper aims to evaluate the quality of public discussion about social movements on Twitter and to understand the structural features and evolution of longitudinal discussion networks. They analyzed the tweets about the Occupy Wall Street movement posted over a course of 16 days by investigating the relationship between inequality, emotion, and the stability of online discussion. In terms of the quality of public discussion on Twitter, the findings imply that although the discussion is highly unequal, it tends to be rational, objective, and strategic. The implications help to evaluate the quality of public discussion, and to understand the relationship between online discussion and social movements. （Cheng-Jun）

@@ -1,0 +1,10 @@
+---
+id: 761
+title: "Ph.D. Students Win Paper Prizes in Postgraduate Symposium"
+date: 2012-01-03 17:31:23
+guid: http://weblab.com.cityu.edu.hk/blog/?p=761
+---
+
+# Ph.D. Students Win Paper Prizes in Postgraduate Symposium
+
+Lu Heng, a Ph.D. student of the Department of Media and Communication, won Top Paper Prize at the 3rd Postgraduate Student Symposium of the Chinese Journalism and Communication Consortium. The 3rd Postgraduate Student Symposium of the Chinese Journalism and Communication Consortium was held at Fudan University in Shanghai during November 26-27, 2011. Thirteen Ph.D. students form the Department presented papers at the symposium. The selected papers based on anonymous review covered a broad range of topics such as media diplomacy, online interpersonal communication, and crisis management through microblog. Lu Heng’s paper, “National Identity and the Internet: A Cohort Study in Hong Kong” won the first prize of the postgraduate symposium. Liang Hai’s paper, “The Structure of Public Expression and Issue Rise: Participation Heterogeneity, Concentration, and Timing in Internet Forums” won the third prize. The postgraduate symposium is a forum for presenting and discussing journalism and communication research among the postgraduate students from universities in mainland China, Hong Kong and Taiwan. It was one of the major joint activities of the Consortium, which was found in March 2009 by four universities: City University of Hong Kong, Communication University of China, Fudan University, and National Taiwan University. The first Postgraduate Student Symposium was hosted by City University of Hong Kong in November 2009. The second and third symposia were held at the Communication University of China and Fudan University. The host of the fourth symposium will be National Taiwan University, to be held in October 2012.
