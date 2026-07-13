@@ -1,9 +1,24 @@
 ---
+layout: single
 id: 3287
 title: "Lingfei Wu wins NSF CAREER Award"
 date: 2023-03-01 10:14:34
 guid: http://weblab.com.cityu.edu.hk/blog/?p=3287
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-4.jpg
+  cta_label: "Read More"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Congratulations to our lab alumni Dr. [Lingfei Wu](<https://lingfeiwu.github.io/>) on winning a prestigious National Science Foundation CAREER Award in the United States! Lingfei is currently an assistant professor of information science at the University of Pittsburgh."
+modified: 2023-03-01T11:13:22-04:00
+comments: true
+author_profile: true
+author: "Jonathan Zhu"
+
 ---
+
+
 
 # Lingfei Wu wins NSF CAREER Award
 
