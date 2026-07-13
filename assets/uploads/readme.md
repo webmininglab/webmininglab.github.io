@@ -1,1 +1,2 @@
-
+这里是从wordpress的html文件夹uploads子文件夹中的图片
+删除了没有使用的图片
