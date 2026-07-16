@@ -1,25 +1,19 @@
 <div class="language-switcher">
 
-  <a href="#" class="{% if page.lang == 'zh' %}current{% endif %}">🇨🇳 中文</a>
+  <span class="lang-btn current">🇬🇧 English</span>
 
-  |
+  <a class="lang-btn"
+     href="https://translate.google.com/translate?sl=auto&tl=zh-CN&u={{ page.url | absolute_url | url_encode }}"
+     target="_blank"
+     rel="noopener">
+    🇨🇳 Chinese
+  </a>
 
-  <a href="#" onclick="showTranslateTip();return false;">
+  <a class="lang-btn"
+     href="https://translate.google.com/translate?sl=auto&tl=en&u={{ page.url | absolute_url | url_encode }}"
+     target="_blank"
+     rel="noopener">
     🌐 Translate
   </a>
 
-  |
-
-  <a href="#" class="{% if page.lang == 'en' %}current{% endif %}">
-    🇬🇧 English
-  </a>
-
 </div>
-
-<script>
-function showTranslateTip() {
-  alert(
-    "Use your browser's Translate feature.\n\nChrome/Edge:\nRight click → Translate to English (or Chinese)."
-  );
-}
-</script>
