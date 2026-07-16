@@ -1,28 +1,25 @@
 <div class="language-switcher">
 
-<span>🌐 Language:</span>
+  <a href="#" class="{% if page.lang == 'zh' %}current{% endif %}">🇨🇳 中文</a>
 
-<a href="#" class="current">中文</a>
+  |
 
-|
+  <a href="#" onclick="showTranslateTip();return false;">
+    🌐 Translate
+  </a>
 
-<a href="#"
-onclick="showTranslateTip();return false;">
-Translate
-</a>
+  |
 
-|
-
-<span style="color:#999;">English</span>
+  <a href="#" class="{% if page.lang == 'en' %}current{% endif %}">
+    🇬🇧 English
+  </a>
 
 </div>
 
 <script>
-function showTranslateTip(){
-
-alert(
-"Most modern browsers (Chrome, Edge, Safari) can translate this page automatically.\n\nRight click the page and choose 'Translate to English', or use the Translate icon in the address bar."
-);
-
+function showTranslateTip() {
+  alert(
+    "Use your browser's Translate feature.\n\nChrome/Edge:\nRight click → Translate to English (or Chinese)."
+  );
 }
 </script>
