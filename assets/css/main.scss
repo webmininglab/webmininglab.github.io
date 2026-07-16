@@ -5,3 +5,35 @@
 @charset "UTF-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.language-switcher{
+
+margin:12px 0 20px 0;
+
+font-size:.9rem;
+
+color:#666;
+
+}
+
+.language-switcher a{
+
+text-decoration:none;
+
+margin:0 4px;
+
+}
+
+.language-switcher a:hover{
+
+text-decoration:underline;
+
+}
+
+.language-switcher .current{
+
+font-weight:600;
+
+color:#222;
+
+}
