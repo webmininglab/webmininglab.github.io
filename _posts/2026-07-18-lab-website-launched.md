@@ -18,4 +18,6 @@ The new website includes
 - Visualizations
 - News
 
+![socrates](/assets/images/socrates.png)
+
 We hope it will become a useful platform for sharing our research activities.
