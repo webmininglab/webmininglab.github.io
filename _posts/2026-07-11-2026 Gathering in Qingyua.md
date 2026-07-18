@@ -1,5 +1,5 @@
 ---
-title: "WEB MINING LAB 2026 GATHERING IN QINGYUAN"
+title: "Web Mining Lab 2026 Gathering in Qingyuan"
 date: 2026-07-11
 categories:
   - News
