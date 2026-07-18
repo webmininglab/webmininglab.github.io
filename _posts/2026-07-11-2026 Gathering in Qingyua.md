@@ -5,7 +5,7 @@ categories:
   - News
 tags:
   - Website
-excerpt: "Our laboratory website has officially been launched."
+excerpt: "From July 7 to 10, 2026, nine graduates of the Web Mining Lab reunited with their advisor Jonathan Zhu in Qingyuan."
 ---
 From July 7 to 10, 2026, nine graduates of the Web Mining Lab reunited with their advisor Jonathan Zhu for a four-day, three-night retreat in Qingyuan, Guangdong. The participants were Winson Peng, Zhijin Zhong, Lun Zhang, Hai Liang, Chengjun Wang, Heng Lu, Zhenzhen Wang, Lu Guan, and Yixin Zhou. 
 
