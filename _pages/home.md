@@ -64,6 +64,13 @@ We started in 2000 as a survey project on use of the Internet (i.e., Web 1.0) in
             Assistant Professor
         </div>
     </td>
+    <td style="text-align: center; vertical-align: middle; padding:10px">
+        <div>
+            <img src="https://drhailiang.com/images/lianghai2.jpg" width = 100px height = 100px><br>
+            <a href="https://drhailiang.com/">Hai Liang</a><br>
+            Associate Professor
+        </div>
+    </td>
   </tr>
   
 
